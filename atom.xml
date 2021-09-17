@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qianhu2.github.io/</id>
     <title>Gridea</title>
-    <updated>2021-09-17T13:34:57.080Z</updated>
+    <updated>2021-09-17T15:04:21.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qianhu2.github.io/"/>
     <link rel="self" href="https://qianhu2.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://qianhu2.github.io/images/avatar.png</logo>
     <icon>https://qianhu2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[【编号0】头一次接触到并使用博客]]></title>
+        <id>https://qianhu2.github.io/post/bian-hao-0-tou-yi-ci-jie-hong-dao-bing-shi-yong-bo-ke/</id>
+        <link href="https://qianhu2.github.io/post/bian-hao-0-tou-yi-ci-jie-hong-dao-bing-shi-yong-bo-ke/">
+        </link>
+        <updated>2021-09-17T14:59:02.000Z</updated>
+        <content type="html"><![CDATA[<p>这是我头一次使用博客，不是很清楚这东西怎么用，但我就是单纯的想在这里放一些东西而已。<br>
+就先这样吧。😀</p>
+]]></content>
+    </entry>
 </feed>
