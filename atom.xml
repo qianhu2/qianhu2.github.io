@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qianhu2.github.io/</id>
     <title>虚幻宇宙</title>
-    <updated>2021-09-18T07:48:09.546Z</updated>
+    <updated>2021-09-18T14:21:32.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qianhu2.github.io/"/>
     <link rel="self" href="https://qianhu2.github.io/atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>https://qianhu2.github.io/images/avatar.png</logo>
     <icon>https://qianhu2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 虚幻宇宙</rights>
+    <entry>
+        <title type="html"><![CDATA[【编号4】近期安排和未来展望]]></title>
+        <id>https://qianhu2.github.io/post/bian-hao-4-jin-qi-an-pai-he-wei-lai-zhan-wang/</id>
+        <link href="https://qianhu2.github.io/post/bian-hao-4-jin-qi-an-pai-he-wei-lai-zhan-wang/">
+        </link>
+        <updated>2021-09-18T14:01:18.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>最近事情比较多，脑子也乱乱的，心情更是一团遭。</p>
+<p>光列一个任务清单，对我不是很顶用，所以还是发散思维写一篇规划吧。</p>
+<p>本次规划分为两部分。</p>
+<ul>
+<li>近期安排</li>
+<li>未来展望</li>
+</ul>
+<p>近期安排，这个近期，我就按照七天来计算了，这七天里需要完成的事情。</p>
+<p>未来展望，这个可以随便写一些，梦想啊，想学什么，以后有什么想做的。</p>
+<h1 id="近期安排">近期安排</h1>
+<ol>
+<li>将B站宝剑侍从的新人网文学习视频理解通透</li>
+<li>依靠学习到的方法，构建出一本小说大纲</li>
+<li>如果有了大纲，就开始写书吧，我真的受不了家里人说我闲话了</li>
+</ol>
+<p>目前我生活中最重要的事情就是写作，其他也没有别的事了，但本着劳逸结合的态度，游戏还是要打的。</p>
+<ol>
+<li>《无期迷途》上上线，舔舔老婆就好了</li>
+<li>《明日方舟》刷材料，提升干员练度</li>
+</ol>
+<p>大概也没别的事情了，当然，除了这些，我的生活中家务活还是占了不少时间……这个没办法。</p>
+<h1 id="未来展望">未来展望</h1>
+<p>未来其实也没什么好展望的，如果小说写的好，那就没事，不好，完蛋，不好不坏，勉强很活。</p>
+<p>然后我想做的事情其实有很多，买各种东西，游戏、电脑、手机……</p>
+<p>然后就是一些想学的东西吧。</p>
+<ul>
+<li>编程爬虫</li>
+<li>更好的写作技术</li>
+<li>基础板绘</li>
+</ul>
+<p>就这些吧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【编号3】【写作之路】总结记录-第一阶段]]></title>
         <id>https://qianhu2.github.io/post/bian-hao-3-xie-zuo-zhi-lu-zong-jie-ji-lu-di-yi-jie-duan/</id>
