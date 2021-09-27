@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qianhu2.github.io/</id>
     <title>虚幻宇宙</title>
-    <updated>2021-09-26T08:20:57.092Z</updated>
+    <updated>2021-09-27T09:05:53.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qianhu2.github.io/"/>
     <link rel="self" href="https://qianhu2.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://qianhu2.github.io/images/avatar.png</logo>
     <icon>https://qianhu2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 虚幻宇宙</rights>
+    <entry>
+        <title type="html"><![CDATA[【编号9】【碎片故事】极乐之巅 2-社死（中）]]></title>
+        <id>https://qianhu2.github.io/post/bian-hao-9-sui-pian-gu-shi-ji-le-zhi-dian-2-she-si-zhong/</id>
+        <link href="https://qianhu2.github.io/post/bian-hao-9-sui-pian-gu-shi-ji-le-zhi-dian-2-she-si-zhong/">
+        </link>
+        <updated>2021-09-27T08:56:12.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【编号8】我的生产力系统·初代·改]]></title>
         <id>https://qianhu2.github.io/post/bian-hao-8-wo-de-sheng-chan-li-xi-tong-chu-dai-gai/</id>
